@@ -13,7 +13,7 @@ food2 = ['蜜汁叉燒飯', '黃金起司蛋包飯', '糖醋雞肉飯', '鐵板�
 
 emoj = {
     
-    '早':random.choice(food),
+    '早': random.choice(food),
     '中': random.choice(food2),
     '晚': random.choice(food2)
     
