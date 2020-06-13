@@ -11,3 +11,12 @@
 ## 開發環境
 - pip 19.2.3
 - Python 3.8 32
+## 環境設置
+下載pygame: 
+```
+$ python3 -m pip install pygame==2.0.0.dev6
+```
+下載python-telegram-bot
+```
+$ pip install python-telegram-bot --upgrade
+```
